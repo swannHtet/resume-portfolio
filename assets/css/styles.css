@@ -947,7 +947,7 @@ resize: none;
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 400px) {
   .nav__menu{
     padding: 1rem 1.5rem;
   }
