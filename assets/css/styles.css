@@ -982,12 +982,19 @@ resize: none;
     justify-content: center;
   }
 
+  .work__filters{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 1rem;
+    justify-content: center;
+    align-items: center;
+  }
+  
   .work__item{
     font-size: var(--small-font-size);
+    padding-bottom: .25rem;
+
   }
-  .work__filters{
-    column-gap: 0.25rem;
-}
 }
 
 /* For medium devices */
