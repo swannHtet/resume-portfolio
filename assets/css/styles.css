@@ -978,7 +978,7 @@ resize: none;
   }
 
   .services__container{
-    grid-template-columns: 145px;
+    grid-template-columns: repeat(2, 1fr);
     justify-content: center;
   }
 
